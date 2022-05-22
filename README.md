@@ -37,7 +37,7 @@ applications as a freelancer.
 - **C/PHP/VB.NET** - Rusty  
 
 ## 🎓 EDUCATION
-- **Bachelor degree in Computer Science**  
+- **Baccalaureate degree in Computer Science**  
 *Hedi SOUSSI high school - Sfax*   
 *july 2018*
 
@@ -46,22 +46,26 @@ applications as a freelancer.
 *10/2018 -07/2021*
 
 ## ⚙️ EXPERIENCE
-- **Python Developer**  
-*Freelance -- 2018 -> Ongoing*  
+- **Mid-Level Developer**  
+*MAS-Entreprise -- 01/2022 -> Ongoing*  
 • Modified existing software to correct coding errors, upgrade and improve overall performance.  
 • Implimented simple machine learning algorithms (Linear Regression, Decision tree,Random forest).  
 • Implimented inceptionV3 model for face shape classification (end of studies project).  
 • Implimented OpenCV and mediapipe for extracting face landmarks (end of studies project).  
 
-
 - **Flutter Developer**  
-*Freelance -- 2021 -> Ongoing*  
+*Freelance -- 2020 -> 12/2021  
 • Modified existing projects to correct coding errors, upgrade and improve overall performance  
 • Implementation of Firebase  
 • Design and developed 2 apps  
 • Integration/Widget/Unit Testing  
 
-
+- **Python Developer**  
+*Freelance -- 2018 -> 2020  
+• Modified existing software to correct coding errors, upgrade and improve overall performance.  
+• Implimented simple machine learning algorithms (Linear Regression, Decision tree,Random forest).  
+• Implimented inceptionV3 model for face shape classification (end of studies project).  
+• Implimented OpenCV and mediapipe for extracting face landmarks (end of studies project).  
 
 
 ## 💪 STRENGTHS     
@@ -70,5 +74,6 @@ applications as a freelancer.
 - **Critical Thinking**
 - **Commited to lifelong Learning**
 
-## [Download PDF](https://github.com/dalyhachicha/Resume/raw/main/resume_EN.pdf)
-## [Preview PDF](https://github.com/dalyhachicha/Resume/blob/main/resume_EN.pdf)
+
+## [Download PDF](https://github.com/dalyhachicha/Resume/raw/main/Reusme%20EN.pdf)
+## [Preview PDF](https://github.com/dalyhachicha/Resume/blob/main/Reusme%20EN.pdf)
