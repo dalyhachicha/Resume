@@ -46,7 +46,7 @@ applications as a freelancer.
 *10/2018 -07/2021*
 
 ## ⚙️ EXPERIENCE
-- **Mid-Level Developer**  
+- **Full Stack Developer**  
 *MAS-Entreprise -- 01/2022 -> Ongoing*  
 • Modified existing software to correct coding errors, upgrade and improve overall performance.  
 • Implimented simple machine learning algorithms (Linear Regression, Decision tree,Random forest).  
